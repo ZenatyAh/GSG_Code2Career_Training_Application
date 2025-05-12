@@ -13,3 +13,4 @@ const save = () => {
     countEl.textContent = 0;
     count = 0;
 }
+console.log("Let's Count The Passengers ! ")
